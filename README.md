@@ -11,3 +11,6 @@ Update
 
 En la carpeta responsive pueden ver el proyecto actualizado a Responsive Design y Retina Design.
 Esto se enseñó el curso profesional de frontend en el concepto de Responsive Design del 11 al 13 de Noviembre de 2014.
+
+
+Testeo Ramas Borrar 
